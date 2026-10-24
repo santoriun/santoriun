@@ -6,7 +6,7 @@ Estudiante de **Ingeniería de Software** y apasionado del desarrollo. Me defino
 
 ### 🚀 Sobre mí
 
-- 🎓 **Educación:** Estudiante de Ingeniería de Softwar || Universida Unimunuto.
+- 🎓 **Educación:** Estudiante de Ingeniería de Softwar || Universidad Unimunuto.
 - 💻 **Enfoque actual:** Desarrollo de aplicaciones de escritorio e interfaces gráficas con **Python (Flet)** y maquetación web moderna con **Astro**, **Tailwind CSS** y **JavaScript**.
 - 🛠️ **Redes & Infraestructura:** Práctica en configuración de redes, subredes, VLANs y protocolos NAT/PAT en **Cisco Packet Tracer**.
 - 🧠 **Metodología:** Aprendizaje continuo, pensamiento analítico y constante práctica de lógica de programación y algoritmos.
